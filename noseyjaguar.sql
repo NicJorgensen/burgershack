@@ -23,6 +23,7 @@
 
 -- -- GET FROM DB_TABLE
 -- SELECT * FROM noseyjaguar.burgers;
+SELECT * FROM noseyjaguar.users
 
 -- -- EDIT RECORD
 -- UPDATE noseyjaguar.burgers SET
